@@ -1,3 +1,3 @@
 # Personal Website
 
-Your welcoem to check it out.
+Your most welcome to check it out.
