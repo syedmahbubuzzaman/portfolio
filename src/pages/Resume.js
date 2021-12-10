@@ -29,7 +29,7 @@ const Resume = () => (
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2 data-testid="heading">Resume </h2><a href="https://github.com/syedmahbubuzzaman/Academic_CV/blob/main/My_Academic_CV.pdf"> [download at 📄]</a>
+          <h2 data-testid="heading">Resume </h2><a href="https://github.com/syedmahbubuzzaman/Academic_CV/blob/main/SyedMahbubuzZaman-AcademicCV.pdf"> [download at 📄]</a>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>
