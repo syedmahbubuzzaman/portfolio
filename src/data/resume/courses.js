@@ -26,7 +26,7 @@ const courses = [
   },
   {
     title: 'COMPUTER ARCHITECTURE',
-    number: 'CMSE340',
+    number: 'CSE340',
     link: 'https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse-0#:~:text=cse%20340%3A%20computer%20architecture%20(3%20credits)',
     university: 'Brac University',
   },
@@ -68,26 +68,26 @@ const courses = [
   },
   {
     title: 'Linear Algebra and Fourier Analysis',
-    number: 'MAT 216',
+    number: 'MAT216',
     link:
       'https://www.bracu.ac.bd/academics/departments/mathematics-and-natural-sciences/courses-offered-mns-department-different#:~:text=mat%20216%20math%20iv%20linear%20algebra%20and%20fourier%20analysis%203%20credits',
     university: 'Brac University',
   },
   {
     title: 'COMPUTER INTERFACING',
-    number: 'CSE 360',
+    number: 'CSE360',
     link: 'https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse-0#:~:text=cse%20360%3A%20computer%20interfacing%20(3%20credits)',
     university: 'Brac University',
   },
   {
     title: 'Complex Variables and Laplace Transformations',
-    number: 'MAT 215',
+    number: 'MAT215',
     link: 'https://www.bracu.ac.bd/academics/departments/mathematics-and-natural-sciences/courses-offered-mns-department-different#:~:text=mat%20215%20math%20iii%20complex%20variables%20and%20laplace%20transformations%203%20credits',
     university: 'Brac University',
   },
   {
     title: 'CIRCUITS AND ELECTRONICS',
-    number: 'CSE 250',
+    number: 'CSE250',
     link: 'https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse-0#:~:text=cse%20250%3A%20circuits%20and%20electronics%20(3%20credits)',
     university: 'Brac University',
   },
@@ -105,13 +105,13 @@ const courses = [
   },
   {
     title: 'AUTOMATA AND COMPUTABILITY',
-    number: 'CSE 331',
+    number: 'CSE331',
     link: 'https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse-0#:~:text=cse%20331%3A%20automata%20and%20computability%20(3%20credits)',
     university: 'Brac University',
   },
   {
     title: 'OPERATING SYSTEMS',
-    number: 'CSE 321',
+    number: 'CSE321',
     link: 'https://www.bracu.ac.bd/academics/departments/computer-science-and-engineering/bachelor-science-computer-science-and/cse-0#:~:text=cse%20321%3A%20operating%20systems%20(%203%20credits)',
     university: 'Brac University',
   },
